@@ -1,4 +1,4 @@
-# Solidity By Example 
+# ERC721 Contract 
 Writing, deploying and minting ERC721 NFT contract using open-zeppelin wizard, alchemy rinkeby, uploading metadata on IPFS via Filebase and confirming on open-sea after deploy and mint.
 
 
